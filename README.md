@@ -2,8 +2,6 @@
 
 This project involves recreating a simple design based on a Figma prototype using only CSS positioning techniques (absolute and relative). No frameworks or advanced techniques like Flexbox or Grid are used.
 
----
-
 ## 🎯 Project Objectives
 
 - 📚 Enhance understanding and mastery of CSS positioning techniques.
