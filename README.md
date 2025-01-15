@@ -1,4 +1,4 @@
-# ✨ Exercise: Reproducing a Basic Design in CSS ✨
+# 🏴‍☠️ Exercise: Reproducing a Basic Design in CSS
 
 This project involves recreating a simple design based on a Figma prototype using only CSS positioning techniques (absolute and relative). No frameworks or advanced techniques like Flexbox or Grid are used.
 
