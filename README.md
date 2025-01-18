@@ -4,19 +4,19 @@ This project involves recreating a simple design based on a Figma prototype usin
 
 ## 🎯 Project Objectives
 
-- 📚 Enhance understanding and mastery of CSS positioning techniques.
-- 🎨 Work on faithfully reproducing a design.
-- 🛠️ Learn to create simple layouts without relying on modern techniques.
+Enhance understanding and mastery of CSS positioning techniques.  
+Work on faithfully reproducing a design.  
+Learn to create simple layouts without relying on modern techniques.
 
 ## 📂 Included Files
 
-- **📄 index.html**: Contains the HTML structure of the page.
-- **🎨 style.css**: Contains the CSS styles for the layout.
-- **🖼️ assets/**: (optional) Contains images used in the project.
+**index.html**: Contains the HTML structure of the page.  
+**style.css**: Contains the CSS styles for the layout.  
+**assets/**: (optional) Contains images used in the project.
 
 ## ⚠️ Constraints
 
-- 🚫 No use of Flexbox, CSS Grid, or JavaScript.
+No use of Flexbox, CSS Grid, or JavaScript.
 
 ## 🔍 Design Preview
 
